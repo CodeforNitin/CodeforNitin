@@ -1,15 +1,21 @@
-<h1 align="center">Namaste, I'm Nitin Jadhav</h1>
-<h3 align="center">A passionate Dev from India</h3>
+<!--# नमस्ते (Namaste), I am Nitin-->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=800&size=40&pause=1000&color=F7F733&center=true&random=false&width=1024&height=60&lines=+%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+(Namaste)%2C+I+am+Nitin)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on **Full Stack MERN Developer**
+<!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"> -->
+<img align='right' src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*um19N_oeTKlmrHMov0O5bA.gif" width=300 height=250>
 
-- 🌱 I’m currently learning **Amazon Web Services, DevOps**
+<br><br/>
+- 👨‍💻 Engineer, Working as a **MERN DEV** @Merkle.
+- 🚀 Passionate about exploring and applying new technologies.
+- 📖 Believer in continuous learning.
+- 🛠️ Enthusiast for a variety of projects.
+- ⚙️ Currently learning **Next JS, AWS and Devops**
+- 📧 Any Opportunities, <a>codeforni3@gmail.com<a/>
+<br><br/>
+<hr>
 
-- 💬 Ask me about **Express, Node.js, React, MongoDB, Redux, etc.**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik&weight=600&size=25&pause=1000&color=70F73F&random=false&width=1029&height=35&lines=Connect+with+Me)](https://git.io/typing-svg)
 
-- 📫 How to reach me **codeforni3@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </p>
@@ -34,10 +40,14 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"                  alt="postgresql" width="40" height="40"/>
 <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"                                                                     alt="seaborn" width="40" height="40"/>
 </p>
-<br><br/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codefornitin&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=codefornitin&show_icons=true&locale=en" alt="GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codefornitin&" alt="GitHub Streak" width="400" />
-</p>
+### :zap: GitHub Stats ❤️ 
+
+<div>
+   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeforNitin&theme=nord_dark"/>
+  &nbsp; &nbsp; &nbsp;
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeforNitin&layout=compact&theme=dark&bg_color=2E3440&text_color=88C0D0&rank_icon=88C0D0"/>
+   <br />
+   <br />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeforNitin&theme=nord_dark"/>
+</div>
